@@ -1,0 +1,2117 @@
+[
+ {
+  "name": "Chespin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY01",
+  "imageSrc": "promos/xy-promos/images/XY01.jpg"
+ },
+ {
+  "name": "Fennekin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY02",
+  "imageSrc": "promos/xy-promos/images/XY02.jpg"
+ },
+ {
+  "name": "Froakie",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY03",
+  "imageSrc": "promos/xy-promos/images/XY03.jpg"
+ },
+ {
+  "name": "Sylveon",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY04",
+  "imageSrc": "promos/xy-promos/images/XY04.jpg"
+ },
+ {
+  "name": "Xerneas",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY05",
+  "imageSrc": "promos/xy-promos/images/XY05.jpg"
+ },
+ {
+  "name": "Yveltal",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY06",
+  "imageSrc": "promos/xy-promos/images/XY06.jpg"
+ },
+ {
+  "name": "Xerneas-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY07",
+  "imageSrc": "promos/xy-promos/images/XY07.jpg"
+ },
+ {
+  "name": "Yveltal-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY08",
+  "imageSrc": "promos/xy-promos/images/XY08.jpg"
+ },
+ {
+  "name": "Garchomp-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY09",
+  "imageSrc": "promos/xy-promos/images/XY09.jpg"
+ },
+ {
+  "name": "Dragalge",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY10",
+  "imageSrc": "promos/xy-promos/images/XY10.jpg"
+ },
+ {
+  "name": "Skiddo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY11",
+  "imageSrc": "promos/xy-promos/images/XY11.jpg"
+ },
+ {
+  "name": "Honedge",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY12",
+  "imageSrc": "promos/xy-promos/images/XY12.jpg"
+ },
+ {
+  "name": "Charizard-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY17",
+  "imageSrc": "promos/xy-promos/images/XY17.jpg"
+ },
+ {
+  "name": "Machamp",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY13",
+  "imageSrc": "promos/xy-promos/images/XY13.jpg"
+ },
+ {
+  "name": "Chesnaught-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY18",
+  "imageSrc": "promos/xy-promos/images/XY18.jpg"
+ },
+ {
+  "name": "Delphox-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY19",
+  "imageSrc": "promos/xy-promos/images/XY19.jpg"
+ },
+ {
+  "name": "Greninja-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY20",
+  "imageSrc": "promos/xy-promos/images/XY20.jpg"
+ },
+ {
+  "name": "Krookodile-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY25",
+  "imageSrc": "promos/xy-promos/images/XY25.jpg"
+ },
+ {
+  "name": "Pyroar",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY26",
+  "imageSrc": "promos/xy-promos/images/XY26.jpg"
+ },
+ {
+  "name": "Slurpuff",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY15",
+  "imageSrc": "promos/xy-promos/images/XY15.jpg"
+ },
+ {
+  "name": "Champions Festival",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY27",
+  "imageSrc": "promos/xy-promos/images/XY27.jpg"
+ },
+ {
+  "name": "Trevenant",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY14",
+  "imageSrc": "promos/xy-promos/images/XY14.jpg"
+ },
+ {
+  "name": "Gogoat",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY16",
+  "imageSrc": "promos/xy-promos/images/XY16.jpg"
+ },
+ {
+  "name": "Bronzong",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY21",
+  "imageSrc": "promos/xy-promos/images/XY21.jpg"
+ },
+ {
+  "name": "Darkrai",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY22",
+  "imageSrc": "promos/xy-promos/images/XY22.jpg"
+ },
+ {
+  "name": "Shiftry",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY23",
+  "imageSrc": "promos/xy-promos/images/XY23.jpg"
+ },
+ {
+  "name": "Greninja",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY24",
+  "imageSrc": "promos/xy-promos/images/XY24.jpg"
+ },
+ {
+  "name": "Venusaur-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY28",
+  "imageSrc": "promos/xy-promos/images/XY28.jpg"
+ },
+ {
+  "name": "Charizard-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY29",
+  "imageSrc": "promos/xy-promos/images/XY29.jpg"
+ },
+ {
+  "name": "Blastoise-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY30",
+  "imageSrc": "promos/xy-promos/images/XY30.jpg"
+ },
+ {
+  "name": "Xerneas",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY31",
+  "imageSrc": "promos/xy-promos/images/XY31.jpg"
+ },
+ {
+  "name": "Yveltal",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY32",
+  "imageSrc": "promos/xy-promos/images/XY32.jpg"
+ },
+ {
+  "name": "Trevor",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY33",
+  "imageSrc": "promos/xy-promos/images/XY33.jpg"
+ },
+ {
+  "name": "Metagross-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY34",
+  "imageSrc": "promos/xy-promos/images/XY34.jpg"
+ },
+ {
+  "name": "M Metagross-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY35",
+  "imageSrc": "promos/xy-promos/images/XY35.jpg"
+ },
+ {
+  "name": "Treecko",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY36",
+  "imageSrc": "promos/xy-promos/images/XY36.jpg"
+ },
+ {
+  "name": "Torchic",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY37",
+  "imageSrc": "promos/xy-promos/images/XY37.jpg"
+ },
+ {
+  "name": "Mudkip",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY38",
+  "imageSrc": "promos/xy-promos/images/XY38.jpg"
+ },
+ {
+  "name": "Kingdra",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY39",
+  "imageSrc": "promos/xy-promos/images/XY39.jpg"
+ },
+ {
+  "name": "Ditto",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY40",
+  "imageSrc": "promos/xy-promos/images/XY40.jpg"
+ },
+ {
+  "name": "Kyogre-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY41",
+  "imageSrc": "promos/xy-promos/images/XY41.jpg"
+ },
+ {
+  "name": "Groudon-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY42",
+  "imageSrc": "promos/xy-promos/images/XY42.jpg"
+ },
+ {
+  "name": "Diancie-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY43",
+  "imageSrc": "promos/xy-promos/images/XY43.jpg"
+ },
+ {
+  "name": "M Diancie-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY44",
+  "imageSrc": "promos/xy-promos/images/XY44.jpg"
+ },
+ {
+  "name": "Gallade-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY45",
+  "imageSrc": "promos/xy-promos/images/XY45.jpg"
+ },
+ {
+  "name": "Kyogre",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY51",
+  "imageSrc": "promos/xy-promos/images/XY51.jpg"
+ },
+ {
+  "name": "Groudon",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY52",
+  "imageSrc": "promos/xy-promos/images/XY52.jpg"
+ },
+ {
+  "name": "Altaria",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY46",
+  "imageSrc": "promos/xy-promos/images/XY46.jpg"
+ },
+ {
+  "name": "Heliolisk",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY47",
+  "imageSrc": "promos/xy-promos/images/XY47.jpg"
+ },
+ {
+  "name": "Meowstic",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY48",
+  "imageSrc": "promos/xy-promos/images/XY48.jpg"
+ },
+ {
+  "name": "Regirock",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY49",
+  "imageSrc": "promos/xy-promos/images/XY49.jpg"
+ },
+ {
+  "name": "Pangoro",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY50",
+  "imageSrc": "promos/xy-promos/images/XY50.jpg"
+ },
+ {
+  "name": "Swampert-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY55",
+  "imageSrc": "promos/xy-promos/images/XY55.jpg"
+ },
+ {
+  "name": "Sceptile-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY53",
+  "imageSrc": "promos/xy-promos/images/XY53.jpg"
+ },
+ {
+  "name": "Blaziken-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY54",
+  "imageSrc": "promos/xy-promos/images/XY54.jpg"
+ },
+ {
+  "name": "Blissey",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY56",
+  "imageSrc": "promos/xy-promos/images/XY56.jpg"
+ },
+ {
+  "name": "Fearow",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY57",
+  "imageSrc": "promos/xy-promos/images/XY57.jpg"
+ },
+ {
+  "name": "Malamar",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY58",
+  "imageSrc": "promos/xy-promos/images/XY58.jpg"
+ },
+ {
+  "name": "Salamence",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY59",
+  "imageSrc": "promos/xy-promos/images/XY59.jpg"
+ },
+ {
+  "name": "Gyarados",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY60",
+  "imageSrc": "promos/xy-promos/images/XY60.jpg"
+ },
+ {
+  "name": "Flygon-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY61",
+  "imageSrc": "promos/xy-promos/images/XY61.jpg"
+ },
+ {
+  "name": "Absol-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY62",
+  "imageSrc": "promos/xy-promos/images/XY62.jpg"
+ },
+ {
+  "name": "M Absol-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY63",
+  "imageSrc": "promos/xy-promos/images/XY63.jpg"
+ },
+ {
+  "name": "Rayquaza",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY64",
+  "imageSrc": "promos/xy-promos/images/XY64.jpg"
+ },
+ {
+  "name": "Latios",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY65",
+  "imageSrc": "promos/xy-promos/images/XY65.jpg"
+ },
+ {
+  "name": "Rayquaza-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY66",
+  "imageSrc": "promos/xy-promos/images/XY66.jpg"
+ },
+ {
+  "name": "Rayquaza-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY69",
+  "imageSrc": "promos/xy-promos/images/XY69.jpg"
+ },
+ {
+  "name": "Champions Festival",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY91",
+  "imageSrc": "promos/xy-promos/images/XY91.jpg"
+ },
+ {
+  "name": "Tyrantrum-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY70",
+  "imageSrc": "promos/xy-promos/images/XY70.jpg"
+ },
+ {
+  "name": "Hoopa-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY71",
+  "imageSrc": "promos/xy-promos/images/XY71.jpg"
+ },
+ {
+  "name": "Latios-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY72",
+  "imageSrc": "promos/xy-promos/images/XY72.jpg"
+ },
+ {
+  "name": "Rayquaza-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY73",
+  "imageSrc": "promos/xy-promos/images/XY73.jpg"
+ },
+ {
+  "name": "Jirachi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY67",
+  "imageSrc": "promos/xy-promos/images/XY67.jpg"
+ },
+ {
+  "name": "Chesnaught",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY68",
+  "imageSrc": "promos/xy-promos/images/XY68.jpg"
+ },
+ {
+  "name": "Reshiram",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY74",
+  "imageSrc": "promos/xy-promos/images/XY74.jpg"
+ },
+ {
+  "name": "Palkia",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY75",
+  "imageSrc": "promos/xy-promos/images/XY75.jpg"
+ },
+ {
+  "name": "Zekrom",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY76",
+  "imageSrc": "promos/xy-promos/images/XY76.jpg"
+ },
+ {
+  "name": "Dialga",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY77",
+  "imageSrc": "promos/xy-promos/images/XY77.jpg"
+ },
+ {
+  "name": "Latias",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY78",
+  "imageSrc": "promos/xy-promos/images/XY78.jpg"
+ },
+ {
+  "name": "Latios",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY79",
+  "imageSrc": "promos/xy-promos/images/XY79.jpg"
+ },
+ {
+  "name": "Black Kyurem",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY80",
+  "imageSrc": "promos/xy-promos/images/XY80.jpg"
+ },
+ {
+  "name": "White Kyurem",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY81",
+  "imageSrc": "promos/xy-promos/images/XY81.jpg"
+ },
+ {
+  "name": "Regigigas",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY82",
+  "imageSrc": "promos/xy-promos/images/XY82.jpg"
+ },
+ {
+  "name": "Arceus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY83",
+  "imageSrc": "promos/xy-promos/images/XY83.jpg"
+ },
+ {
+  "name": "Pikachu-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY84",
+  "imageSrc": "promos/xy-promos/images/XY84.jpg"
+ },
+ {
+  "name": "Hoopa-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY85",
+  "imageSrc": "promos/xy-promos/images/XY85.jpg"
+ },
+ {
+  "name": "M Blaziken-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY86",
+  "imageSrc": "promos/xy-promos/images/XY86.jpg"
+ },
+ {
+  "name": "M Swampert-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY87",
+  "imageSrc": "promos/xy-promos/images/XY87.jpg"
+ },
+ {
+  "name": "Chespin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY88",
+  "imageSrc": "promos/xy-promos/images/XY88.jpg"
+ },
+ {
+  "name": "Pikachu",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY89",
+  "imageSrc": "promos/xy-promos/images/XY89.jpg"
+ },
+ {
+  "name": "Hoopa",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY90",
+  "imageSrc": "promos/xy-promos/images/XY90.jpg"
+ },
+ {
+  "name": "Sableye",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY92",
+  "imageSrc": "promos/xy-promos/images/XY92.jpg"
+ },
+ {
+  "name": "Celebi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY93",
+  "imageSrc": "promos/xy-promos/images/XY93.jpg"
+ },
+ {
+  "name": "Aerodactyl-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY97",
+  "imageSrc": "promos/xy-promos/images/XY97.jpg"
+ },
+ {
+  "name": "M Aerodactyl-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY98",
+  "imageSrc": "promos/xy-promos/images/XY98.jpg"
+ },
+ {
+  "name": "Aerodactyl Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY99",
+  "imageSrc": "promos/xy-promos/images/XY99.jpg"
+ },
+ {
+  "name": "Mewtwo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY100",
+  "imageSrc": "promos/xy-promos/images/XY100.jpg"
+ },
+ {
+  "name": "Mewtwo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY101",
+  "imageSrc": "promos/xy-promos/images/XY101.jpg"
+ },
+ {
+  "name": "Aurorus-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY102",
+  "imageSrc": "promos/xy-promos/images/XY102.jpg"
+ },
+ {
+  "name": "Empoleon BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY134",
+  "imageSrc": "promos/xy-promos/images/XY134.jpg"
+ },
+ {
+  "name": "Beheeyem BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY135",
+  "imageSrc": "promos/xy-promos/images/XY135.jpg"
+ },
+ {
+  "name": "Noctowl BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY136",
+  "imageSrc": "promos/xy-promos/images/XY136.jpg"
+ },
+ {
+  "name": "Trevenant",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY94",
+  "imageSrc": "promos/xy-promos/images/XY94.jpg"
+ },
+ {
+  "name": "Pikachu",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY95",
+  "imageSrc": "promos/xy-promos/images/XY95.jpg"
+ },
+ {
+  "name": "Umbreon",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY96",
+  "imageSrc": "promos/xy-promos/images/XY96.jpg"
+ },
+ {
+  "name": "Gyarados",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY109",
+  "imageSrc": "promos/xy-promos/images/XY109.jpg"
+ },
+ {
+  "name": "Mew",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY110",
+  "imageSrc": "promos/xy-promos/images/XY110.jpg"
+ },
+ {
+  "name": "Magikarp",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY143",
+  "imageSrc": "promos/xy-promos/images/XY143.jpg"
+ },
+ {
+  "name": "Celebi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY111",
+  "imageSrc": "promos/xy-promos/images/XY111.jpg"
+ },
+ {
+  "name": "Charizard-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY121",
+  "imageSrc": "promos/xy-promos/images/XY121.jpg"
+ },
+ {
+  "name": "Gyarados-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY106",
+  "imageSrc": "promos/xy-promos/images/XY106.jpg"
+ },
+ {
+  "name": "Mewtwo-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY107",
+  "imageSrc": "promos/xy-promos/images/XY107.jpg"
+ },
+ {
+  "name": "Machamp-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY108",
+  "imageSrc": "promos/xy-promos/images/XY108.jpg"
+ },
+ {
+  "name": "Jirachi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY112",
+  "imageSrc": "promos/xy-promos/images/XY112.jpg"
+ },
+ {
+  "name": "Ash-Greninja-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY133",
+  "imageSrc": "promos/xy-promos/images/XY133.jpg"
+ },
+ {
+  "name": "Moltres",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY127",
+  "imageSrc": "promos/xy-promos/images/XY127.jpg"
+ },
+ {
+  "name": "White Kyurem",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY128",
+  "imageSrc": "promos/xy-promos/images/XY128.jpg"
+ },
+ {
+  "name": "Zygarde",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY129",
+  "imageSrc": "promos/xy-promos/images/XY129.jpg"
+ },
+ {
+  "name": "Tyranitar",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY130",
+  "imageSrc": "promos/xy-promos/images/XY130.jpg"
+ },
+ {
+  "name": "Darkrai",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY114",
+  "imageSrc": "promos/xy-promos/images/XY114.jpg"
+ },
+ {
+  "name": "Mawile-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY103",
+  "imageSrc": "promos/xy-promos/images/XY103.jpg"
+ },
+ {
+  "name": "M Mawile-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY104",
+  "imageSrc": "promos/xy-promos/images/XY104.jpg"
+ },
+ {
+  "name": "Mawile Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY105",
+  "imageSrc": "promos/xy-promos/images/XY105.jpg"
+ },
+ {
+  "name": "Pansear",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY131",
+  "imageSrc": "promos/xy-promos/images/XY131.jpg"
+ },
+ {
+  "name": "Gastly",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY132",
+  "imageSrc": "promos/xy-promos/images/XY132.jpg"
+ },
+ {
+  "name": "Vivillon",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY137",
+  "imageSrc": "promos/xy-promos/images/XY137.jpg"
+ },
+ {
+  "name": "Froakie",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY138",
+  "imageSrc": "promos/xy-promos/images/XY138.jpg"
+ },
+ {
+  "name": "Xerneas-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY149",
+  "imageSrc": "promos/xy-promos/images/XY149.jpg"
+ },
+ {
+  "name": "Yveltal-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY150",
+  "imageSrc": "promos/xy-promos/images/XY150.jpg"
+ },
+ {
+  "name": "Zygarde-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY151",
+  "imageSrc": "promos/xy-promos/images/XY151.jpg"
+ },
+ {
+  "name": "Blastoise-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY122",
+  "imageSrc": "promos/xy-promos/images/XY122.jpg"
+ },
+ {
+  "name": "Manaphy",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY113",
+  "imageSrc": "promos/xy-promos/images/XY113.jpg"
+ },
+ {
+  "name": "Zygarde",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY152",
+  "imageSrc": "promos/xy-promos/images/XY152.jpg"
+ },
+ {
+  "name": "Shaymin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY115",
+  "imageSrc": "promos/xy-promos/images/XY115.jpg"
+ },
+ {
+  "name": "Shaymin-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY148",
+  "imageSrc": "promos/xy-promos/images/XY148.jpg"
+ },
+ {
+  "name": "Venusaur-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY123",
+  "imageSrc": "promos/xy-promos/images/XY123.jpg"
+ },
+ {
+  "name": "Ho-Oh",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY153",
+  "imageSrc": "promos/xy-promos/images/XY153.jpg"
+ },
+ {
+  "name": "Ho-Oh BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY154",
+  "imageSrc": "promos/xy-promos/images/XY154.jpg"
+ },
+ {
+  "name": "Wobbuffet BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY155",
+  "imageSrc": "promos/xy-promos/images/XY155.jpg"
+ },
+ {
+  "name": "Lugia",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY156",
+  "imageSrc": "promos/xy-promos/images/XY156.jpg"
+ },
+ {
+  "name": "Arceus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY116",
+  "imageSrc": "promos/xy-promos/images/XY116.jpg"
+ },
+ {
+  "name": "Floette",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fairy"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY139",
+  "imageSrc": "promos/xy-promos/images/XY139.jpg"
+ },
+ {
+  "name": "Lucario",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY140",
+  "imageSrc": "promos/xy-promos/images/XY140.jpg"
+ },
+ {
+  "name": "Rayquaza",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY141",
+  "imageSrc": "promos/xy-promos/images/XY141.jpg"
+ },
+ {
+  "name": "Azelf",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY142",
+  "imageSrc": "promos/xy-promos/images/XY142.jpg"
+ },
+ {
+  "name": "Yanmega",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY144",
+  "imageSrc": "promos/xy-promos/images/XY144.jpg"
+ },
+ {
+  "name": "Volcanion",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY145",
+  "imageSrc": "promos/xy-promos/images/XY145.jpg"
+ },
+ {
+  "name": "Clawitzer",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY146",
+  "imageSrc": "promos/xy-promos/images/XY146.jpg"
+ },
+ {
+  "name": "Hoopa",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY147",
+  "imageSrc": "promos/xy-promos/images/XY147.jpg"
+ },
+ {
+  "name": "Champions Festival",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY176",
+  "imageSrc": "promos/xy-promos/images/XY176.jpg"
+ },
+ {
+  "name": "Victini",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY117",
+  "imageSrc": "promos/xy-promos/images/XY117.jpg"
+ },
+ {
+  "name": "Pikachu-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY124",
+  "imageSrc": "promos/xy-promos/images/XY124.jpg"
+ },
+ {
+  "name": "Mewtwo-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY125",
+  "imageSrc": "promos/xy-promos/images/XY125.jpg"
+ },
+ {
+  "name": "Mew-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY126",
+  "imageSrc": "promos/xy-promos/images/XY126.jpg"
+ },
+ {
+  "name": "Karen",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY177",
+  "imageSrc": "promos/xy-promos/images/XY177.jpg"
+ },
+ {
+  "name": "Volcanion-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire", "Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY173",
+  "imageSrc": "promos/xy-promos/images/XY173.jpg"
+ },
+ {
+  "name": "Pikachu-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY174",
+  "imageSrc": "promos/xy-promos/images/XY174.jpg"
+ },
+ {
+  "name": "Magearna-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY175",
+  "imageSrc": "promos/xy-promos/images/XY175.jpg"
+ },
+ {
+  "name": "Keldeo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY118",
+  "imageSrc": "promos/xy-promos/images/XY118.jpg"
+ },
+ {
+  "name": "Mewtwo-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY183",
+  "imageSrc": "promos/xy-promos/images/XY183.jpg"
+ },
+ {
+  "name": "Beedrill-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY157",
+  "imageSrc": "promos/xy-promos/images/XY157.jpg"
+ },
+ {
+  "name": "M Beedrill-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY158",
+  "imageSrc": "promos/xy-promos/images/XY158.jpg"
+ },
+ {
+  "name": "Beedrill Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY159",
+  "imageSrc": "promos/xy-promos/images/XY159.jpg"
+ },
+ {
+  "name": "Genesect",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY119",
+  "imageSrc": "promos/xy-promos/images/XY119.jpg"
+ },
+ {
+  "name": "Black Kyurem",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY160",
+  "imageSrc": "promos/xy-promos/images/XY160.jpg"
+ },
+ {
+  "name": "Braixen",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY161",
+  "imageSrc": "promos/xy-promos/images/XY161.jpg"
+ },
+ {
+  "name": "Greninja",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY162",
+  "imageSrc": "promos/xy-promos/images/XY162.jpg"
+ },
+ {
+  "name": "Weezing",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY163",
+  "imageSrc": "promos/xy-promos/images/XY163.jpg"
+ },
+ {
+  "name": "Volcanion",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY164",
+  "imageSrc": "promos/xy-promos/images/XY164.jpg"
+ },
+ {
+  "name": "Magearna",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY165",
+  "imageSrc": "promos/xy-promos/images/XY165.jpg"
+ },
+ {
+  "name": "M Gengar-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY166",
+  "imageSrc": "promos/xy-promos/images/XY166.jpg"
+ },
+ {
+  "name": "Absol",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY178",
+  "imageSrc": "promos/xy-promos/images/XY178.jpg"
+ },
+ {
+  "name": "Garchomp-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY167",
+  "imageSrc": "promos/xy-promos/images/XY167.jpg"
+ },
+ {
+  "name": "M Garchomp-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY168",
+  "imageSrc": "promos/xy-promos/images/XY168.jpg"
+ },
+ {
+  "name": "Garchomp Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY169",
+  "imageSrc": "promos/xy-promos/images/XY169.jpg"
+ },
+ {
+  "name": "Salamence-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY170",
+  "imageSrc": "promos/xy-promos/images/XY170.jpg"
+ },
+ {
+  "name": "M Salamence-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Dragon"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY171",
+  "imageSrc": "promos/xy-promos/images/XY171.jpg"
+ },
+ {
+  "name": "Salamence Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY172",
+  "imageSrc": "promos/xy-promos/images/XY172.jpg"
+ },
+ {
+  "name": "Snorlax",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY179",
+  "imageSrc": "promos/xy-promos/images/XY179.jpg"
+ },
+ {
+  "name": "Pikachu",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY202",
+  "imageSrc": "promos/xy-promos/images/XY202.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY203",
+  "imageSrc": "promos/xy-promos/images/XY203.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY204",
+  "imageSrc": "promos/xy-promos/images/XY204.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY205",
+  "imageSrc": "promos/xy-promos/images/XY205.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY206",
+  "imageSrc": "promos/xy-promos/images/XY206.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY207",
+  "imageSrc": "promos/xy-promos/images/XY207.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY208",
+  "imageSrc": "promos/xy-promos/images/XY208.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY209",
+  "imageSrc": "promos/xy-promos/images/XY209.jpg"
+ },
+ {
+  "name": "Gym Badge",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY210",
+  "imageSrc": "promos/xy-promos/images/XY210.jpg"
+ },
+ {
+  "name": "Meloetta",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY120",
+  "imageSrc": "promos/xy-promos/images/XY120.jpg"
+ },
+ {
+  "name": "Giratina",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY184",
+  "imageSrc": "promos/xy-promos/images/XY184.jpg"
+ },
+ {
+  "name": "Arcanine BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY180",
+  "imageSrc": "promos/xy-promos/images/XY180.jpg"
+ },
+ {
+  "name": "Crobat BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY181",
+  "imageSrc": "promos/xy-promos/images/XY181.jpg"
+ },
+ {
+  "name": "Mandibuzz BREAK",
+  "type": "Pokémon",
+  "stage": "BREAK",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY182",
+  "imageSrc": "promos/xy-promos/images/XY182.jpg"
+ },
+ {
+  "name": "Volcanion",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY185",
+  "imageSrc": "promos/xy-promos/images/XY185.jpg"
+ },
+ {
+  "name": "Magearna",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY186",
+  "imageSrc": "promos/xy-promos/images/XY186.jpg"
+ },
+ {
+  "name": "Celebi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY187",
+  "imageSrc": "promos/xy-promos/images/XY187.jpg"
+ },
+ {
+  "name": "Shaymin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY188",
+  "imageSrc": "promos/xy-promos/images/XY188.jpg"
+ },
+ {
+  "name": "Victini",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY189",
+  "imageSrc": "promos/xy-promos/images/XY189.jpg"
+ },
+ {
+  "name": "Manaphy",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY190",
+  "imageSrc": "promos/xy-promos/images/XY190.jpg"
+ },
+ {
+  "name": "Keldeo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY191",
+  "imageSrc": "promos/xy-promos/images/XY191.jpg"
+ },
+ {
+  "name": "Mew",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY192",
+  "imageSrc": "promos/xy-promos/images/XY192.jpg"
+ },
+ {
+  "name": "Meloetta",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY193",
+  "imageSrc": "promos/xy-promos/images/XY193.jpg"
+ },
+ {
+  "name": "Darkrai",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY194",
+  "imageSrc": "promos/xy-promos/images/XY194.jpg"
+ },
+ {
+  "name": "Jirachi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY195",
+  "imageSrc": "promos/xy-promos/images/XY195.jpg"
+ },
+ {
+  "name": "Genesect",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY196",
+  "imageSrc": "promos/xy-promos/images/XY196.jpg"
+ },
+ {
+  "name": "Arceus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY197",
+  "imageSrc": "promos/xy-promos/images/XY197.jpg"
+ },
+ {
+  "name": "M Camerupt-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY198",
+  "imageSrc": "promos/xy-promos/images/XY198.jpg"
+ },
+ {
+  "name": "Camerupt Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY199",
+  "imageSrc": "promos/xy-promos/images/XY199.jpg"
+ },
+ {
+  "name": "M Sharpedo-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY200",
+  "imageSrc": "promos/xy-promos/images/XY200.jpg"
+ },
+ {
+  "name": "Sharpedo Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY201",
+  "imageSrc": "promos/xy-promos/images/XY201.jpg"
+ },
+ {
+  "name": "Lucario Spirit Link",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY211",
+  "imageSrc": "promos/xy-promos/images/XY211.jpg"
+ },
+ {
+  "name": "Jirachi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY67a",
+  "imageSrc": "promos/xy-promos/images/XY67a.jpg"
+ },
+ {
+  "name": "Yveltal-EX",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY150a",
+  "imageSrc": "promos/xy-promos/images/XY150a.jpg"
+ },
+ {
+  "name": "Karen",
+  "type": "Trainer",
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY177a",
+  "imageSrc": "promos/xy-promos/images/XY177a.jpg"
+ },
+ {
+  "name": "M Camerupt-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Fire"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY198a",
+  "imageSrc": "promos/xy-promos/images/XY198a.jpg"
+ },
+ {
+  "name": "M Sharpedo-EX",
+  "type": "Pokémon",
+  "stage": "Mega",
+  "colours": ["Darkness"],
+  "series": "promos",
+  "set": "xy-promos",
+  "cardNumber": "XY200a",
+  "imageSrc": "promos/xy-promos/images/XY200a.jpg"
+ }
+]

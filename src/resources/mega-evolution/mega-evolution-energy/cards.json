@@ -1,0 +1,66 @@
+[
+ {
+  "name": "Basic {G} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "001",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/001.jpg"
+ },
+ {
+  "name": "Basic {R} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "002",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/002.jpg"
+ },
+ {
+  "name": "Basic {W} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "003",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/003.jpg"
+ },
+ {
+  "name": "Basic {L} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "004",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/004.jpg"
+ },
+ {
+  "name": "Basic {P} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "005",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/005.jpg"
+ },
+ {
+  "name": "Basic {F} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "006",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/006.jpg"
+ },
+ {
+  "name": "Basic {D} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "007",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/007.jpg"
+ },
+ {
+  "name": "Basic {M} Energy",
+  "type": "Energy",
+  "series": "mega-evolution",
+  "set": "mega-evolution-energy",
+  "cardNumber": "008",
+  "imageSrc": "mega-evolution/mega-evolution-energy/images/008.jpg"
+ }
+]

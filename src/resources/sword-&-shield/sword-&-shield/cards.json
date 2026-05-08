@@ -1,0 +1,2075 @@
+[
+ {
+  "name": "Celebi V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "001",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/001.jpg"
+ },
+ {
+  "name": "Roselia",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "002",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/002.jpg"
+ },
+ {
+  "name": "Roselia",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "003",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/003.jpg"
+ },
+ {
+  "name": "Roserade",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "004",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/004.jpg"
+ },
+ {
+  "name": "Cottonee",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "005",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/005.jpg"
+ },
+ {
+  "name": "Whimsicott",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "006",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/006.jpg"
+ },
+ {
+  "name": "Maractus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "007",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/007.jpg"
+ },
+ {
+  "name": "Durant",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "008",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/008.jpg"
+ },
+ {
+  "name": "Dhelmise V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "009",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/009.jpg"
+ },
+ {
+  "name": "Grookey",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "010",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/010.jpg"
+ },
+ {
+  "name": "Grookey",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "011",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/011.jpg"
+ },
+ {
+  "name": "Thwackey",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "012",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/012.jpg"
+ },
+ {
+  "name": "Thwackey",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "013",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/013.jpg"
+ },
+ {
+  "name": "Rillaboom",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "014",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/014.jpg"
+ },
+ {
+  "name": "Rillaboom",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "015",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/015.jpg"
+ },
+ {
+  "name": "Blipbug",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "016",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/016.jpg"
+ },
+ {
+  "name": "Blipbug",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "017",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/017.jpg"
+ },
+ {
+  "name": "Dottler",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "018",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/018.jpg"
+ },
+ {
+  "name": "Orbeetle",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "019",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/019.jpg"
+ },
+ {
+  "name": "Gossifleur",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "020",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/020.jpg"
+ },
+ {
+  "name": "Eldegoss",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "021",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/021.jpg"
+ },
+ {
+  "name": "Vulpix",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "022",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/022.jpg"
+ },
+ {
+  "name": "Ninetales",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "023",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/023.jpg"
+ },
+ {
+  "name": "Torkoal V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "024",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/024.jpg"
+ },
+ {
+  "name": "Victini V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "025",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/025.jpg"
+ },
+ {
+  "name": "Heatmor",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "026",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/026.jpg"
+ },
+ {
+  "name": "Salandit",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "027",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/027.jpg"
+ },
+ {
+  "name": "Salazzle",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "028",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/028.jpg"
+ },
+ {
+  "name": "Turtonator",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "029",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/029.jpg"
+ },
+ {
+  "name": "Scorbunny",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "030",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/030.jpg"
+ },
+ {
+  "name": "Scorbunny",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "031",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/031.jpg"
+ },
+ {
+  "name": "Raboot",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "032",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/032.jpg"
+ },
+ {
+  "name": "Raboot",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "033",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/033.jpg"
+ },
+ {
+  "name": "Cinderace",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "034",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/034.jpg"
+ },
+ {
+  "name": "Cinderace",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "035",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/035.jpg"
+ },
+ {
+  "name": "Cinderace",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "036",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/036.jpg"
+ },
+ {
+  "name": "Sizzlipede",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "037",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/037.jpg"
+ },
+ {
+  "name": "Sizzlipede",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "038",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/038.jpg"
+ },
+ {
+  "name": "Centiskorch",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "039",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/039.jpg"
+ },
+ {
+  "name": "Shellder",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "040",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/040.jpg"
+ },
+ {
+  "name": "Cloyster",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "041",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/041.jpg"
+ },
+ {
+  "name": "Krabby",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "042",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/042.jpg"
+ },
+ {
+  "name": "Krabby",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "043",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/043.jpg"
+ },
+ {
+  "name": "Kingler",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "044",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/044.jpg"
+ },
+ {
+  "name": "Goldeen",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "045",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/045.jpg"
+ },
+ {
+  "name": "Goldeen",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "046",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/046.jpg"
+ },
+ {
+  "name": "Seaking",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "047",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/047.jpg"
+ },
+ {
+  "name": "Lapras",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "048",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/048.jpg"
+ },
+ {
+  "name": "Lapras V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "049",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/049.jpg"
+ },
+ {
+  "name": "Lapras VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "050",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/050.jpg"
+ },
+ {
+  "name": "Qwilfish",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "051",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/051.jpg"
+ },
+ {
+  "name": "Mantine",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "052",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/052.jpg"
+ },
+ {
+  "name": "Keldeo V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "053",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/053.jpg"
+ },
+ {
+  "name": "Sobble",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "054",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/054.jpg"
+ },
+ {
+  "name": "Sobble",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "055",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/055.jpg"
+ },
+ {
+  "name": "Drizzile",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "056",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/056.jpg"
+ },
+ {
+  "name": "Drizzile",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "057",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/057.jpg"
+ },
+ {
+  "name": "Inteleon",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "058",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/058.jpg"
+ },
+ {
+  "name": "Inteleon",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "059",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/059.jpg"
+ },
+ {
+  "name": "Chewtle",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "060",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/060.jpg"
+ },
+ {
+  "name": "Drednaw",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "061",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/061.jpg"
+ },
+ {
+  "name": "Cramorant",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "062",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/062.jpg"
+ },
+ {
+  "name": "Snom",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "063",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/063.jpg"
+ },
+ {
+  "name": "Frosmoth",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "064",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/064.jpg"
+ },
+ {
+  "name": "Pikachu",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "065",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/065.jpg"
+ },
+ {
+  "name": "Raichu",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "066",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/066.jpg"
+ },
+ {
+  "name": "Chinchou",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "067",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/067.jpg"
+ },
+ {
+  "name": "Chinchou",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "068",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/068.jpg"
+ },
+ {
+  "name": "Lanturn",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "069",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/069.jpg"
+ },
+ {
+  "name": "Joltik",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "070",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/070.jpg"
+ },
+ {
+  "name": "Galvantula",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "071",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/071.jpg"
+ },
+ {
+  "name": "Tapu Koko V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "072",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/072.jpg"
+ },
+ {
+  "name": "Yamper",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "073",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/073.jpg"
+ },
+ {
+  "name": "Yamper",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "074",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/074.jpg"
+ },
+ {
+  "name": "Boltund",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "075",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/075.jpg"
+ },
+ {
+  "name": "Boltund",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "076",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/076.jpg"
+ },
+ {
+  "name": "Pincurchin",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "077",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/077.jpg"
+ },
+ {
+  "name": "Morpeko",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "078",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/078.jpg"
+ },
+ {
+  "name": "Morpeko V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "079",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/079.jpg"
+ },
+ {
+  "name": "Morpeko VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "080",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/080.jpg"
+ },
+ {
+  "name": "Galarian Ponyta",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "081",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/081.jpg"
+ },
+ {
+  "name": "Galarian Rapidash",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "082",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/082.jpg"
+ },
+ {
+  "name": "Gastly",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "083",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/083.jpg"
+ },
+ {
+  "name": "Haunter",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "084",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/084.jpg"
+ },
+ {
+  "name": "Gengar",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "085",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/085.jpg"
+ },
+ {
+  "name": "Wobbuffet V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "086",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/086.jpg"
+ },
+ {
+  "name": "Munna",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "087",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/087.jpg"
+ },
+ {
+  "name": "Musharna",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "088",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/088.jpg"
+ },
+ {
+  "name": "Sinistea",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "089",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/089.jpg"
+ },
+ {
+  "name": "Polteageist",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "090",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/090.jpg"
+ },
+ {
+  "name": "Indeedee V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "091",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/091.jpg"
+ },
+ {
+  "name": "Diglett",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "092",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/092.jpg"
+ },
+ {
+  "name": "Dugtrio",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "093",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/093.jpg"
+ },
+ {
+  "name": "Hitmonlee",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "094",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/094.jpg"
+ },
+ {
+  "name": "Hitmonchan",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "095",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/095.jpg"
+ },
+ {
+  "name": "Rhyhorn",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "096",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/096.jpg"
+ },
+ {
+  "name": "Rhyhorn",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "097",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/097.jpg"
+ },
+ {
+  "name": "Rhydon",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "098",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/098.jpg"
+ },
+ {
+  "name": "Rhyperior",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "099",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/099.jpg"
+ },
+ {
+  "name": "Sudowoodo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "100",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/100.jpg"
+ },
+ {
+  "name": "Baltoy",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "101",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/101.jpg"
+ },
+ {
+  "name": "Baltoy",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "102",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/102.jpg"
+ },
+ {
+  "name": "Claydol",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "103",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/103.jpg"
+ },
+ {
+  "name": "Regirock V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "104",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/104.jpg"
+ },
+ {
+  "name": "Mudbray",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "105",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/105.jpg"
+ },
+ {
+  "name": "Mudsdale",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "106",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/106.jpg"
+ },
+ {
+  "name": "Silicobra",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "107",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/107.jpg"
+ },
+ {
+  "name": "Silicobra",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "108",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/108.jpg"
+ },
+ {
+  "name": "Sandaconda",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "109",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/109.jpg"
+ },
+ {
+  "name": "Sandaconda",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "110",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/110.jpg"
+ },
+ {
+  "name": "Clobbopus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "111",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/111.jpg"
+ },
+ {
+  "name": "Clobbopus",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "112",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/112.jpg"
+ },
+ {
+  "name": "Grapploct",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "113",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/113.jpg"
+ },
+ {
+  "name": "Stonjourner",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "114",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/114.jpg"
+ },
+ {
+  "name": "Stonjourner V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "115",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/115.jpg"
+ },
+ {
+  "name": "Stonjourner VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "116",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/116.jpg"
+ },
+ {
+  "name": "Galarian Zigzagoon",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "117",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/117.jpg"
+ },
+ {
+  "name": "Galarian Linoone",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "118",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/118.jpg"
+ },
+ {
+  "name": "Galarian Obstagoon",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "119",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/119.jpg"
+ },
+ {
+  "name": "Sableye V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "120",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/120.jpg"
+ },
+ {
+  "name": "Skorupi",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "121",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/121.jpg"
+ },
+ {
+  "name": "Drapion",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "122",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/122.jpg"
+ },
+ {
+  "name": "Croagunk",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "123",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/123.jpg"
+ },
+ {
+  "name": "Toxicroak",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "124",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/124.jpg"
+ },
+ {
+  "name": "Nickit",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "125",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/125.jpg"
+ },
+ {
+  "name": "Thievul",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "126",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/126.jpg"
+ },
+ {
+  "name": "Galarian Meowth",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "127",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/127.jpg"
+ },
+ {
+  "name": "Galarian Perrserker",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "128",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/128.jpg"
+ },
+ {
+  "name": "Mawile",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "129",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/129.jpg"
+ },
+ {
+  "name": "Ferroseed",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "130",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/130.jpg"
+ },
+ {
+  "name": "Ferrothorn",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "131",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/131.jpg"
+ },
+ {
+  "name": "Galarian Stunfisk",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "132",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/132.jpg"
+ },
+ {
+  "name": "Pawniard",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "133",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/133.jpg"
+ },
+ {
+  "name": "Bisharp",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "134",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/134.jpg"
+ },
+ {
+  "name": "Corviknight",
+  "type": "Pokémon",
+  "stage": "Stage 2",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "135",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/135.jpg"
+ },
+ {
+  "name": "Cufant",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "136",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/136.jpg"
+ },
+ {
+  "name": "Copperajah",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "137",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/137.jpg"
+ },
+ {
+  "name": "Zacian V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "138",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/138.jpg"
+ },
+ {
+  "name": "Zamazenta V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "139",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/139.jpg"
+ },
+ {
+  "name": "Snorlax",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "140",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/140.jpg"
+ },
+ {
+  "name": "Snorlax V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "141",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/141.jpg"
+ },
+ {
+  "name": "Snorlax VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "142",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/142.jpg"
+ },
+ {
+  "name": "Hoothoot",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "143",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/143.jpg"
+ },
+ {
+  "name": "Noctowl",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "144",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/144.jpg"
+ },
+ {
+  "name": "Minccino",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "145",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/145.jpg"
+ },
+ {
+  "name": "Minccino",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "146",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/146.jpg"
+ },
+ {
+  "name": "Cinccino",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "147",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/147.jpg"
+ },
+ {
+  "name": "Oranguru",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "148",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/148.jpg"
+ },
+ {
+  "name": "Drampa",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "149",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/149.jpg"
+ },
+ {
+  "name": "Rookidee",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "150",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/150.jpg"
+ },
+ {
+  "name": "Corvisquire",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "151",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/151.jpg"
+ },
+ {
+  "name": "Wooloo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "152",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/152.jpg"
+ },
+ {
+  "name": "Wooloo",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "153",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/153.jpg"
+ },
+ {
+  "name": "Dubwool",
+  "type": "Pokémon",
+  "stage": "Stage 1",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "154",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/154.jpg"
+ },
+ {
+  "name": "Cramorant V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "155",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/155.jpg"
+ },
+ {
+  "name": "Air Balloon",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "156",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/156.jpg"
+ },
+ {
+  "name": "Bede",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "157",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/157.jpg"
+ },
+ {
+  "name": "Big Charm",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "158",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/158.jpg"
+ },
+ {
+  "name": "Crushing Hammer",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "159",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/159.jpg"
+ },
+ {
+  "name": "Energy Retrieval",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "160",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/160.jpg"
+ },
+ {
+  "name": "Energy Search",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "161",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/161.jpg"
+ },
+ {
+  "name": "Energy Switch",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "162",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/162.jpg"
+ },
+ {
+  "name": "Evolution Incense",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "163",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/163.jpg"
+ },
+ {
+  "name": "Great Ball",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "164",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/164.jpg"
+ },
+ {
+  "name": "Hop",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "165",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/165.jpg"
+ },
+ {
+  "name": "Hyper Potion",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "166",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/166.jpg"
+ },
+ {
+  "name": "Lucky Egg",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "167",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/167.jpg"
+ },
+ {
+  "name": "Lum Berry",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "168",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/168.jpg"
+ },
+ {
+  "name": "Marnie",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "169",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/169.jpg"
+ },
+ {
+  "name": "Metal Saucer",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "170",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/170.jpg"
+ },
+ {
+  "name": "Ordinary Rod",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "171",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/171.jpg"
+ },
+ {
+  "name": "Pal Pad",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "172",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/172.jpg"
+ },
+ {
+  "name": "Poké Kid",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "173",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/173.jpg"
+ },
+ {
+  "name": "Pokégear 3.0",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "174",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/174.jpg"
+ },
+ {
+  "name": "Pokémon Catcher",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "175",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/175.jpg"
+ },
+ {
+  "name": "Pokémon Center Lady",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "176",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/176.jpg"
+ },
+ {
+  "name": "Potion",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "177",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/177.jpg"
+ },
+ {
+  "name": "Professor’s Research",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "178",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/178.jpg"
+ },
+ {
+  "name": "Quick Ball",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "179",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/179.jpg"
+ },
+ {
+  "name": "Rare Candy",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "180",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/180.jpg"
+ },
+ {
+  "name": "Rotom Bike",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "181",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/181.jpg"
+ },
+ {
+  "name": "Sitrus Berry",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "182",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/182.jpg"
+ },
+ {
+  "name": "Switch",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "183",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/183.jpg"
+ },
+ {
+  "name": "Team Yell Grunt",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "184",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/184.jpg"
+ },
+ {
+  "name": "Vitality Band",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "185",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/185.jpg"
+ },
+ {
+  "name": "Aurora Energy",
+  "type": "Energy",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "186",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/186.jpg"
+ },
+ {
+  "name": "Dhelmise V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Grass"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "187",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/187.jpg"
+ },
+ {
+  "name": "Torkoal V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fire"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "188",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/188.jpg"
+ },
+ {
+  "name": "Lapras V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "189",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/189.jpg"
+ },
+ {
+  "name": "Morpeko V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "190",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/190.jpg"
+ },
+ {
+  "name": "Wobbuffet V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "191",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/191.jpg"
+ },
+ {
+  "name": "Indeedee V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "192",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/192.jpg"
+ },
+ {
+  "name": "Stonjourner V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "193",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/193.jpg"
+ },
+ {
+  "name": "Sableye V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Darkness"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "194",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/194.jpg"
+ },
+ {
+  "name": "Zacian V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "195",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/195.jpg"
+ },
+ {
+  "name": "Zamazenta V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "196",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/196.jpg"
+ },
+ {
+  "name": "Snorlax V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "197",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/197.jpg"
+ },
+ {
+  "name": "Cramorant V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "198",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/198.jpg"
+ },
+ {
+  "name": "Bede",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "199",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/199.jpg"
+ },
+ {
+  "name": "Marnie",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "200",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/200.jpg"
+ },
+ {
+  "name": "Professor’s Research",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "201",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/201.jpg"
+ },
+ {
+  "name": "Team Yell Grunt",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "202",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/202.jpg"
+ },
+ {
+  "name": "Lapras VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Water"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "203",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/203.jpg"
+ },
+ {
+  "name": "Morpeko VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Lightning"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "204",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/204.jpg"
+ },
+ {
+  "name": "Stonjourner VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Fighting"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "205",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/205.jpg"
+ },
+ {
+  "name": "Snorlax VMAX",
+  "type": "Pokémon",
+  "stage": "VMAX",
+  "colours": ["Colorless"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "206",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/206.jpg"
+ },
+ {
+  "name": "Bede",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "207",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/207.jpg"
+ },
+ {
+  "name": "Marnie",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "208",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/208.jpg"
+ },
+ {
+  "name": "Professor’s Research",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "209",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/209.jpg"
+ },
+ {
+  "name": "Team Yell Grunt",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "210",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/210.jpg"
+ },
+ {
+  "name": "Zacian V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "211",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/211.jpg"
+ },
+ {
+  "name": "Zamazenta V",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Metal"],
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "212",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/212.jpg"
+ },
+ {
+  "name": "Air Balloon",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "213",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/213.jpg"
+ },
+ {
+  "name": "Metal Saucer",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "214",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/214.jpg"
+ },
+ {
+  "name": "Ordinary Rod",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "215",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/215.jpg"
+ },
+ {
+  "name": "Quick Ball",
+  "type": "Trainer",
+  "series": "sword-&-shield",
+  "set": "sword-&-shield",
+  "cardNumber": "216",
+  "imageSrc": "sword-&-shield/sword-&-shield/images/216.jpg"
+ }
+]

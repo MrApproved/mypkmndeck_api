@@ -1,0 +1,12 @@
+[
+ {
+  "name": "Ancient Mew",
+  "type": "Pokémon",
+  "stage": "Basic",
+  "colours": ["Psychic"],
+  "series": "other",
+  "set": "miscellaneous",
+  "cardNumber": "No Number",
+  "imageSrc": "other/miscellaneous/images/No Number.jpg"
+ }
+]
