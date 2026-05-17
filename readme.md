@@ -5,8 +5,9 @@ A NodeJS Express WebApi which hosts the entire list of Pokémon cards to date (0
 ## Running Application
 
 Execute the following within the src folder.
-  - npm install
-  - node app.js (this will run the application on localhost under port 3000)
+
+- npm install
+- node app.js (this will run the application on localhost under port 3000)
 
 ## Methods
 
@@ -36,12 +37,12 @@ Execute the following within the src folder.
   - ?colours = Filter all cards which are of the specified colour. Comma seperated value to allow multiple colour filtering.
   - ?stages = Filter all cards which are of the specified stage. Comma seperated value to allow multiple stage filtering.
 
+/resources/:series/:set/images/:cardnumber
+
+- Returns an image file using the series, set and card number + .jpg
+
 ## Examples
 
-  - http://localhost:3000/cards/?name=pikachu - Return all cards which contain pikachu in the name.
-  - http://localhost:3000/cards/?series=black-%26-white - Return all cards which are part of the Black & White series.
-  - http://localhost:3000/cards/?name=pikachu&series=promos&types=Pok%25C3%25A9mon&colours=Metal&stages=Basic - Return all cards which contain pikachu in the name, part of the promos series, is of type Pokémon, the colour of the card is metal and the stage of the card is basic.
-
-## Publish Hosting
-
-This is currently being hosted for free as an Azure Web App - https://mypkmncards-api.azurewebsites.net/. I don't plan to increase the tier so if you use this for anything, expect it to be super slow and even slower on start up (if that app has fallen asleep).
+- http://localhost:3000/cards/?name=pikachu - Return all cards which contain pikachu in the name.
+- http://localhost:3000/cards/?series=black-%26-white - Return all cards which are part of the Black & White series.
+- http://localhost:3000/cards/?name=pikachu&series=promos&types=Pok%25C3%25A9mon&colours=Metal&stages=Basic - Return all cards which contain pikachu in the name, part of the promos series, is of type Pokémon, the colour of the card is metal and the stage of the card is basic.
